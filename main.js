@@ -1,7 +1,7 @@
 function turnOn(){
-    document.getElementById("myImage").src = 'images/pic_bulbon.gif';
+    document.getElementById("myImage").src = 'pic_bulbon.gif';
 }
 
 function turnOff(){
-    document.getElementById("myImage").src = 'images/pic_bulboff.gif';
+    document.getElementById("myImage").src = 'pic_bulboff.gif';
 }
